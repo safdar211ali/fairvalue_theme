@@ -8,14 +8,37 @@ app_license = "mit"
 
 # Includes in <head>
 # ------------------
+# app_logo_url = "/assets/fairvalue_theme/images/eko-budget.png"
+#
+# website_context = {
+#     "favicon": "/assets/fairvalue_theme/images/eko-budget.png",
+#     "splash_image": "/assets/fairvalue_theme/images/eko-budget.png"
+# }
+# # Includes in <head>
+# # ------------------
+#
+# # include js, css files in header of desk.html
+# app_include_css = [
+#     "/assets/fairvalue_theme/css/fairvalue_theme_app.css"
+# ]
+#
+# app_include_js = ["custom_desk.bundle.js"]
+#
+# extend_bootinfo = "fairvalue_theme.boot.boot_session"
 
+# include js, css files in header of web template
+# web_include_css = [
+#     "/assets/fairvalue_theme/css/fairvalue_theme_web.css"
+# ]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/fairvalue_theme/css/fairvalue_theme.css"
 # app_include_js = "/assets/fairvalue_theme/js/fairvalue_theme.js"
+# app_include_js = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"
+# app_include_js = "/assets/fairvalue_theme/js/custom.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/fairvalue_theme/css/fairvalue_theme.css"
-# web_include_js = "/assets/fairvalue_theme/js/fairvalue_theme.js"
+# web_include_js = "/assets/fairvalue_theme/js/custom_workspace.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "fairvalue_theme/public/scss/website"
@@ -226,4 +249,25 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+# app_include_js = ["/assets/fairvalue_theme/js/custom.js"]
 
+
+website_context = {
+    "favicon": "/assets/fairvalue_theme/images/sauce.png",
+    "splash_image": "/assets/fairvalue_theme/images/sauce.png"
+}
+
+app_include_css = [
+    # "/assets/fairvalue_theme/css/healthcare_theme_app.css"
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
+    "/assets/fairvalue_theme/css/dashboard.css",
+    "/assets/fairvalue_theme/css/form_view.css",
+    "/assets/fairvalue_theme/css/sidebar.css",
+    "/assets/fairvalue_theme/css/style.css"
+
+]
+web_include_css = [
+     "/assets/fairvalue_theme/css/fairvalue_theme_web.css"
+
+]
+required_apps = ['erpnext']

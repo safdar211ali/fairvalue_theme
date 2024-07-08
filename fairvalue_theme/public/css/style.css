@@ -3,14 +3,14 @@
   margin-right: 0px;
 }
 .datepicker--cell.-current- , .datepicker--button{
-  color: #00665F !important;
+  color: #917A1D !important;
 }
 .btn.btn-primary,
 div#driver-popover-item .driver-popover-footer button.btn-primary,
 div#driver-popover-item .driver-popover-footer button.driver-next-btn {
-  background-color: #00665F !important;
+  background-color: #917A1D !important;
   color: var(--white);
-  --icon-fill-bg: #00665F !important;
+  --icon-fill-bg: #917A1D !important;
   height: 48px;
 }
 .btn.btn-secondary{
@@ -24,7 +24,7 @@ div#driver-popover-item .driver-popover-footer button.driver-next-btn {
 }
 
 .text-primary {
-  color: #00665F !important;
+  color: #917A1D !important;
 }
 
 .sidebar-item-icon .icon {
@@ -40,7 +40,7 @@ a:hover {
 }
 
 .widget.onboarding-widget-box .widget-body .onboarding-step .step-index.step-skipped svg {
-  stroke: #00665F !important;
+  stroke: #917A1D !important;
 }
 
 .widget.onboarding-widget-box .widget-body .onboarding-step .step-index.step-skipped {
@@ -93,7 +93,7 @@ a:hover {
   margin-left: 0px;
   align-items: center;
   height: 100%;
-  background-color: #006b60e0;
+  background-color: #b99c26;
   width: 48px;
   top: 0px;
   right: 0px;
@@ -258,11 +258,11 @@ a:hover {
 
 .widget.shortcut-widget-box:hover .ellipsis,
 .widget.shortcut-widget-box:hover .icon .icon-xs {
-  color: #00665F;
+  color: #917A1D;
 }
 
 .widget.shortcut-widget-box:hover .widget-title {
-  color: #00665F;
+  color: #917A1D;
 
 }
 
@@ -280,21 +280,14 @@ a:hover {
 }
 
 .widget.shortcut-widget-box .indicator-pill {
-  color: #00665F;
+  color: #917A1D;
   width: auto !important;
 }
-
-
-
-#icon-arrow-up-right {
-  display: none;
-}
-
 
 .widget.shortcut-widget-box svg.icon-xs {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/healthcare_theme/images/icon-arrow.png");
+  background-image: url("/assets/fairvalue_theme/images/icon-arrow.png");
   float: right;
 }
 
@@ -315,7 +308,7 @@ a:hover {
 .ce-block__content .widget.links-widget-box .widget-head {
   height: 48px;
   border-radius: 8px;
-  background: var(--primary-color-1, #00665F);
+  background: var(--primary-color-1, #917A1D);
   color: #ffffff;
   font-size: 16px;
 }
@@ -371,7 +364,7 @@ a:hover {
 
 .ce-block__content .widget.links-widget-box .link-item::after {
 
-  content: url("/assets/healthcare_theme/images/Icon.png");
+  content: url("/assets/fairvalue_theme/images/Icon.png");
   position: absolute;
   top: 15px;
   right: 16px;
@@ -392,7 +385,7 @@ a:hover {
 
 [data-page-route=Workspaces] .custom-actions .btn:not(.icon-btn) {
   height: 40px;
-  background-color: #00665F;
+  background-color: #917A1D;
   color: #fff;
 }
 
@@ -407,7 +400,7 @@ a:hover {
 .standard-actions button {
   height: 40px !important;
   border-radius: 8px !important;
-  /* border: 1px solid var(--primary-color-1, #00665F); */
+  /* border: 1px solid var(--primary-color-1, #917A1D); */
 
 }
 
@@ -491,14 +484,14 @@ a:hover {
 .filter-x-button .filter-icon {
   width: 24px;
   height: 24px;
-  content: url("/assets/healthcare_theme/images/filter-icon.png");
+  content: url("/assets/fairvalue_theme/images/filter-icon.png");
   margin-right: 5px;
 }
 
 .filter-x-button .filter-icon {
   display: flex;
   align-items: center;
-  content: url("/assets/healthcare_theme/images/filter-remove.png");
+  content: url("/assets/fairvalue_theme/images/filter-remove.png");
 
 }
 
@@ -522,7 +515,7 @@ a:hover {
 }
 
 .result header {
-  background-color: #00665F;
+  background-color: #917A1D;
   border-radius: 8px 8px 0px 0px;
   color:#fff !important;
 }
@@ -554,7 +547,7 @@ input[type=checkbox]:checked .list-row {
 .comment-count {
   width: 24px;
   height: 24px;
-  background-image: url("/assets/healthcare_theme/images/message-text.svg");
+  background-image: url("/assets/fairvalue_theme/images/message-text.svg");
   display: block !important;
   background-repeat: no-repeat;
   margin-right: 40px;
@@ -666,7 +659,7 @@ input[type=checkbox]:checked .list-row {
 
 .sidebar .active {
   border-radius: 8px;
-  background: var(--primary-color-1, #00665F);
+  background: var(--primary-color-1, #917A1D);
 }
 
 .menu-item {
@@ -719,7 +712,7 @@ input[type=checkbox]:checked .list-row {
 
 .sidebar-action a.add-group-by,
 a.list-tag-preview {
-  color: var(--primary-color-1, #00665F) !important;
+  color: var(--primary-color-1, #917A1D) !important;
   font-size: 12px !important;
   font-weight: 500 !important;
 }
@@ -756,7 +749,7 @@ li.input-area {
 }
 
 .list-paging-area .btn-group .btn-paging.btn-info {
-  background-color: #00665F;
+  background-color: #917A1D;
 }
 
 .ce-block__content .widget spacer {
@@ -804,8 +797,8 @@ li.input-area {
 
 input[type=checkbox]:checked {
   border: 1px solid var(--gray-400) !important;
-  background-color: #00665F;
-  background-image: url("/assets/healthcare_theme/images/checked.png");
+  background-color: #917A1D;
+  background-image: url("/assets/fairvalue_theme/images/checked.png");
 }
 
 .input[type=checkbox]:checked.list-check-all {
@@ -822,7 +815,7 @@ input[type=checkbox]:checked {
 }
 
 .page-title .sidebar-toggle-btn svg {
-  stroke: #00665F;
+  stroke: #917A1D;
 }
 
 /************************** responsive ***********************/
@@ -1024,13 +1017,13 @@ input[type=checkbox]:checked {
 .close-icon {
   font-size: 24px;
   padding-left: 16px;
-  color: #00665F;
+  color: #917A1D;
   cursor: pointer;
   display: none;
 }
 
 #menu-button {
-  color: #00665F;
+  color: #917A1D;
   padding: 0px 16px !important;
   margin: 0px !important;
 }
@@ -1204,11 +1197,11 @@ input[type=checkbox]:checked {
 
 .sidebar-item-container .activexxx {
 
-  background-color: #00665F;
+  background-color: #917A1D;
 }
 
 .matched-link {
-  background-color: #00665F;
+  background-color: #917A1D;
   color: #fff;
   /* Change text color for better visibility */
 }
@@ -1227,7 +1220,7 @@ input[type=checkbox]:checked {
 }
 
 .calender-btn {
-  background-color: #00665F;
+  background-color: #917A1D;
   color: #fff;
   padding: 4px 10px;
   height: 40px;
@@ -1283,7 +1276,7 @@ html ,.container.page-body{
 td.fc-event-container a ,.fc-unthemed .fc-today .fc-day-number{
 
   background-color: #E3EDEC !important;
-  color: #00665F !important;
+  color: #917A1D !important;
 }
 .icon.icon-xs
 {  width: 20px;
@@ -1315,5 +1308,39 @@ td.fc-event-container a ,.fc-unthemed .fc-today .fc-day-number{
 } */
 
 .level-item{
-  color:#00665F !important;
+  color:#917A1D !important;
+}
+/*MY CUSTOM CSS */
+.widget-title::before {
+    content: "";
+      display: inline-block;
+    width: 20px; /* Width of the icon */
+    height: 20px; /* Height of the icon */
+    background-image: url('/assets/fairvalue_theme/images/page_icon.png'); /* Path to your icon image */
+    background-size: cover; /* Ensure the image covers the element */
+    background-repeat: no-repeat;
+    margin-right: 10px;
+  margin-left: 5px;
+}
+/*.es-icon {*/
+/*    display: none !important;*/
+/*  }*/
+
+.widget {
+  position: relative; /* Ensure the .widget acts as the relative parent */
+}
+
+.widget-control {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%); /* Vertically center the icon */
+}
+#es-line-arrow-up-right {
+  visibility: hidden;
+}
+
+
+.app-logo {
+  width: 60px !important;
 }

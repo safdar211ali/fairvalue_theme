@@ -24,7 +24,7 @@
 .custom-side-icon {
   width: 24px;
   height: 24px;
-  background-image: url("/assets/healthcare_theme/images/home-icon.png");
+  background-image: url("/assets/fairvalue_theme/images/home-icon.png");
   margin-right: 10px;
   float: left;
   margin-top: 10px;
@@ -51,7 +51,7 @@
 }
 
 .arrow-circle-right {
-  background-image: url("/assets/healthcare_theme/images/arrow-circle-right.png");
+  background-image: url("/assets/fairvalue_theme/images/arrow-circle-right.png");
   width: 24px;
   height: 24px;
   cursor: pointer;
@@ -73,7 +73,7 @@
 }
 .custom_btn_toggle {
   cursor: pointer;
-  background-image: url("/assets/healthcare_theme/images/arrow-circle-right.png");
+  background-image: url("/assets/fairvalue_theme/images/arrow-circle-right.png");
   width: 24px;
   height: 24px;
   margin: auto 2px auto auto;
@@ -87,7 +87,7 @@
 .sidebar-standard-image .standard-image {
   border-radius: 50% !important;
   background-color: rgba(0, 102, 95, 0.10) !important;
-  color: #00665F;
+  color: #917A1D;
 }
 
 .sidebar-label {
@@ -161,7 +161,7 @@ cursor: pointer;
   display: contents !important;
 }
 .desk-sidebar .standard-sidebar-item.selected {
-  background-color: #00665F;
+  background-color: #917A1D;
 }
 
 .desk-sidebar .standard-sidebar-item.selected path{

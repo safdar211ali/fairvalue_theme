@@ -1,0 +1,1 @@
+document.getElementsByClassName("app-logo").src = "/assets/fairvalue_theme/images/sauce.png";

@@ -1,6 +1,6 @@
 .form-tabs-list .form-tabs .nav-item .nav-link.active {
     height: 48px;
-    background: var(--primary-color-1, #00665F);
+    background: var(--primary-color-1, #917A1D);
     border-bottom: none;
     text-align: center !important;
     color:#fff;
@@ -81,16 +81,16 @@
     width: 135px;
     height: 40px;
     border-radius: 8px;
-    background: var(--primary-color-1, #00665F);
+    background: var(--primary-color-1, #917A1D);
     color:#fff;
 font-size: 16px;
 }
  .new-timeline .timeline-dot{
-    background-color: #00665F;
+    background-color: #917A1D;
 }
 
 .list-unstyled.sidebar-menu li button svg {   
-stroke: #00665F;
+stroke: #917A1D;
 }
 
 .sidebar-menu button.data-pill{
@@ -106,5 +106,5 @@ stroke: #00665F;
     height: 24px;
 }
 .btn-primary:not(:disabled):not(.disabled):active{
-    background-color: #00665F;
+    background-color: #917A1D;
 }
