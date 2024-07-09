@@ -1343,4 +1343,5 @@ td.fc-event-container a ,.fc-unthemed .fc-today .fc-day-number{
 
 .app-logo {
   width: 60px !important;
+  margin: 0 auto;
 }

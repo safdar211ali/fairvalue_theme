@@ -20,16 +20,19 @@
     margin: 0px !important;
 }
 
+
 .background-login {
-    width: 50%;
-    height: 100vh;
-    float: right;
-    background-color: #011e3e;
-     position: relative; 
-     background-image:url("/assets/fairvalue_theme/images/Background_login.png");
-    background-repeat:no-repeat;
-    background-position: bottom right;  
+  width: 50%;
+  height: 100vh;
+  float: right;
+  background-color: #fff;
+  position: relative;
+  background-image: url("/assets/fairvalue_theme/images/Background_login.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
+
+
 .background-login img ,.background-forget img{
     width: 100%;
     height: 100vh;
@@ -39,7 +42,7 @@
     width: 50%;
     height: 100vh;
     float: right;
-    background-color: #011e3e;
+    background-color: #fff;
     background-image:url("/assets/fairvalue_theme/images/bg-forget.png");
     background-repeat:no-repeat;
     background-position: center; 
@@ -134,7 +137,7 @@ section {
 }
 
 .page-card-body {
-    width: 395px !important;
+    width: 550px !important;
 }
 
 .toggle-password {
@@ -183,7 +186,7 @@ section {
     color: var(--primary-color-1, #011e3e) !important;
 }
 .big-container {
-    width: 395px;
+    width: 550px;
     margin: 0 auto;
     box-shadow: none !important;
 }
