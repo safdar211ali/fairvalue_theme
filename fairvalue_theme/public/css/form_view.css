@@ -108,3 +108,10 @@ stroke: #917A1D;
 .btn-primary:not(:disabled):not(.disabled):active{
     background-color: #917A1D;
 }
+
+/*print preview page*/
+.col-lg-2.layout-side-section.print-preview-sidebar {
+  display: inline;
+     padding-left: 30px !important;
+  padding-right: 30px; !important;
+}
