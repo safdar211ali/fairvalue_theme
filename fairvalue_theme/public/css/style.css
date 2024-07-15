@@ -1345,3 +1345,6 @@ td.fc-event-container a ,.fc-unthemed .fc-today .fc-day-number{
   width: 60px !important;
   margin: 0 auto;
 }
+#navbar-search{
+    padding-right: 65px;
+}

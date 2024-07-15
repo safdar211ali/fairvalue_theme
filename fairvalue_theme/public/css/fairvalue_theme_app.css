@@ -246,9 +246,7 @@ header .form-control:focus {
     height: 32px;
 }
 
-#navbar-search{
-    padding-right: 65px;
-}
+
 header ul#navbar-breadcrumbs {
     margin-top: -8px;
 }
