@@ -246,13 +246,9 @@ header .form-control:focus {
     height: 32px;
 }
 
-/*#navbar-search{
-    width: 300px;
-    background-color: rgb(65, 78, 90);
-    border-radius: 0px;
-    color: #f9f9f9;
-    border: none;
-}*/
+#navbar-search{
+    padding-right: 65px;
+}
 header ul#navbar-breadcrumbs {
     margin-top: -8px;
 }
